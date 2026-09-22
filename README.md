@@ -1,5 +1,5 @@
 
-<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hola+%F0%9F%91%8B%2C+soy+Marcelino;Ingeniero+de+Software;Desarrollador+Web+%7C+Integraci%C3%B3n+de+Hardware" alt="Typing SVG" /> </h1> <p align="center"> <img src="https://komarev.com/ghpvc/?username=tu-usuario&label=Profile%20views&color=0e75b6&style=flat" alt="tu-usuario" /> <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Malabo%2C%20Guinea%20Ecuatorial-informational" /> </p>
+<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hola+%F0%9F%91%8B%2C+soy+Marcelino;Ingeniero+de+Software;Desarrollador+Web+%7C+Integraci%C3%B3n+de+Hardware" alt="Typing SVG" /> </h1> <p align="center">  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Malabo%2C%20Guinea%20Ecuatorial-informational" /> </p>
   
 👨‍💻 Sobre mí
 
