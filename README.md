@@ -33,6 +33,7 @@ Soporte Técnico — As Technology Sénégal (2021 – 2023)
 
 Mantenimiento preventivo y correctivo de infraestructura tecnológica
 Gestión de hardware y aseguramiento del funcionamiento operativo de equipos críticos
+
 🏆 Proyectos destacados
 Nombre del proyecto — breve descripción (ej. módulo POS con integración NFC).
 Nombre del proyecto 2 — breve descripción.
