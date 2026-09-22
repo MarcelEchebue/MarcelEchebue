@@ -9,8 +9,11 @@ Tengo mente abierta en cuanto a tecnología. Mi interés técnico gira en torno 
 Actualmente en Vemix Solutions, diseñando módulos para sistemas de facturación y puntos de venta.
 
 💼 Trabajando en: Vemix Solutions (Desarrollador Web)
+
 🌱 Actualmente aprendiendo: LLM (Large Language Model)
+
 🎯 Interés: aplicaciones web, POS, integración de hardware
+
 📫 Cómo contactarme: echebuemarcelino@gmail.com
 🔗 Conecta conmigo
 <p align="left"> <a href="https://www.linkedin.com/in/marcelinoebang-echebue-3920181a3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a> <a href="mailto:echebuemarcelino@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a> <a href="https://wa.me/221775530346" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a> </p>
