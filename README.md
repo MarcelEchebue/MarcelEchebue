@@ -1,32 +1,28 @@
 
-<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hola+%F0%9F%91%8B%2C+soy+Marcelino;Ingeniero+de+Software;Desarrollador+Web+%7C+Integraci%C3%B3n+de+Hardware" alt="Typing SVG" /> </h1> <p align="center">  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Malabo%2C%20Guinea%20Ecuatorial-informational" /> </p>
-  
-👨‍💻 Sobre mí
+<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Salut+%F0%9F%91%8B%2C+je+suis+Marcelino;Ing%C3%A9nieur+Logiciel;D%C3%A9veloppeur+Web+%7C+Int%C3%A9gration+Mat%C3%A9rielle" alt="Typing SVG" /> </h1> <p align="center"> <img src="https://img.shields.io/badge/Localisation-Malabo%2C%20Guin%C3%A9e%20%C3%89quatoriale-informational" /> </p>
+👨‍💻 À propos de moi
 
-Soy Ingeniero de Software apasionado por el desarrollo de aplicaciones web y la integración de hardware con software.
+Je suis Ingénieur Logiciel, passionné par le développement d'applications web et l'intégration du matériel avec le logiciel.
 
-Tengo mente abierta en cuanto a tecnología. Mi interés técnico gira en torno a aplicaciones web, sistemas de facturación/POS e integración de hardware (UHF/NFC). Trabajo con JavaScript, PHP (Laravel), Java y Python.
+J'ai l'esprit ouvert en matière de technologie. Mon intérêt technique porte sur les applications web, les systèmes de facturation/POS et l'intégration matérielle (UHF/NFC). Je travaille avec JavaScript, PHP (Laravel), Java et Python.
 
-📫 Cómo contactarme: echebuemarcelino@gmail.com
-🔗 Conecta conmigo
+📫 Comment me contacter : echebuemarcelino@gmail.com
+
+🔗 Me contacter
 <p align="left"> <a href="https://www.linkedin.com/in/marcelinoebang-echebue-3920181a3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a> <a href="https://wa.me/221775530346" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a> </p>
-🛠️ Lenguajes y herramientas
-
+🛠️ Langages et outils
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/> </p>
+💼 Expérience
 
+Développeur Web — Vemix Solutions (2026 – Actuellement)
 
-💼 Experiencia
+Conception et développement de modules spécialisés pour les systèmes de facturation et de point de vente (POS)
+Intégration de matériel spécifique (UHF/NFC) dans les flux de travail logiciels
 
-Desarrollador Web — Vemix Solutions (2026 – Actualmente)
+Support Technique — As Technology Sénégal (2021 – 2023)
 
-Diseño y desarrollo de módulos especializados para sistemas de facturación y POS
-Integración de hardware específico (UHF/NFC) en flujos de trabajo de software
-
-Soporte Técnico — As Technology Sénégal (2021 – 2023)
-
-Mantenimiento preventivo y correctivo de infraestructura tecnológica
-Gestión de hardware y aseguramiento del funcionamiento operativo de equipos críticos
-
-🏆 Proyectos destacados
-Nombre del proyecto — breve descripción (ej. módulo POS con integración NFC).
-Nombre del proyecto 2 — breve descripción.
+Maintenance préventive et corrective de l'infrastructure technologique
+Gestion du matériel et garantie du bon fonctionnement opérationnel des équipements critiques
+🏆 Projets phares
+Nom du projet — brève description (ex. module POS avec intégration NFC).
+Nom du projet 2 — brève description.
