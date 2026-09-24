@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Salut+%F0%9F%91%8B%2C+je+suis+Marcelino;Sotware+Engineer;D%C3%A9veloppeur+Web+%7C+Int%C3%A9gration+Mat%C3%A9rielle" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Salut+%F0%9F%91%8B%2C+je+suis+Marcelino;Software+Engineer+%7C+Coding" alt="Typing SVG" />
 </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Localisation-Malabo%2C%20Guin%C3%A9e%20%C3%89quatoriale-informational" />
