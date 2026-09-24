@@ -7,9 +7,15 @@
 </p>
 👨‍💻 À propos de moi
 
-Je suis Ingénieur Logiciel, passionné par le développement d'applications web et l'intégration du matériel avec le logiciel.
+Ingénieur Logiciel spécialisé dans le développement d'applications web full-stack, la conception de bases de données et l'intégration de modèles de langage (LLMs). Passionné par l'innovation technologique, je conçois des architectures applicatives fiables, performantes et évolutives.
 
-J'ai l'esprit ouvert en matière de technologie. Mon intérêt technique porte sur les applications web, les systèmes de facturation/POS et l'intégration matérielle (UHF/NFC). Je travaille avec JavaScript, PHP (Laravel), Java et Python.
+Domaines d'expertise :
+
+Développement Web & Systèmes : Conduite de projets applicatifs et systèmes de gestion/POS.
+
+Bases de données & IA : Modélisation de données complexes et intégration de LLMs.
+
+Technologies : PHP (Laravel), JavaScript, Python, Java.
 
 📫 Comment me contacter : echebuemarcelino@gmail.com
 
